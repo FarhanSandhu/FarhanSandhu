@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Farhan Ahmad
 ====================================================================================================================================
 
-Hello! 👋 I'm Farhan Ahmad, an Electrical Engineering student in the final year of my degree. My expertise lies in 🚀 Flutter, Dart, C, C++, and I've reached an intermediate level in Python. I have a keen interest in image processing and GUI development, showcasing my skills through projects using Tkinter and CustomTkinter. Additionally, I'm well-versed in HTML and CSS. Currently, I am engaged in exciting Flutter projects and deepening my understanding of Python development. I am always eager to learn and explore new technologies, with a focus on advancing my Python skills and delving into web development. I believe in the transformative power of code to contribute positively to the world. Check out my latest projects below to see my coding journey in action! 🌐👨‍💻
+Hello! 👋 I'm Farhan Ahmad, an Electrical Engineering student in the final year of my degree. My expertise lies in 🚀 Python , Flutter, Dart, C, C++, and I've reached an intermediate level in Python. I have a keen interest in image processing and GUI development, showcasing my skills through projects using Tkinter and CustomTkinter. Additionally, I'm well-versed in HTML and CSS. Currently, I am engaged in exciting Flutter projects and deepening my understanding of Python development. I am always eager to learn and explore new technologies, with a focus on advancing my Python skills and delving into web development. I believe in the transformative power of code to contribute positively to the world. Check out my latest projects below to see my coding journey in action! 🌐👨‍💻
 
-*   🌍  I'm based in Pakistan
-*   ✉️  You can contact me at [farhanahmad@engineer.com](mailto:farhanahmad@engineer.com)
+*   🌍  I'm based in Germany
+*   ✉️  You can contact me at [inboxfarhanahmad@gmail.com](mailto:inboxfarhanahmad@gmail.com)
 
 
 ### Skills
